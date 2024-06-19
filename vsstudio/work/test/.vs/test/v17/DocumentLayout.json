@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsstudio\\work\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3B3DE5-E877-43C1-8D8D-653427CF6EF7}|test.vcxproj|D:\\vsstudio\\work\\test\\tetst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C3B3DE5-E877-43C1-8D8D-653427CF6EF7}|test.vcxproj|solutionrelative:tetst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tetst.cpp",
+              "DocumentMoniker": "D:\\vsstudio\\work\\test\\tetst.cpp",
+              "RelativeDocumentMoniker": "tetst.cpp",
+              "ToolTip": "D:\\vsstudio\\work\\test\\tetst.cpp",
+              "RelativeToolTip": "tetst.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T03:17:38.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

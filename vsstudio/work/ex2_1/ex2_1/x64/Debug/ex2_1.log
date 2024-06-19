@@ -1,0 +1,5 @@
+﻿  ex2_1.cpp
+D:\vsstudio\work\ex2_1\ex2_1.cpp(4,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\vsstudio\work\ex2_1\ex2_1.cpp(7,9): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+D:\vsstudio\work\ex2_1\ex2_1.cpp(7,16): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+  ex2_1.vcxproj -> D:\vsstudio\work\ex2_1\x64\Debug\ex2_1.exe

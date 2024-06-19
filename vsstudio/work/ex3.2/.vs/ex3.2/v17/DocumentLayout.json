@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vsstudio\\work\\ex3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53BEEDE-7A56-44CC-9903-AF9C2DDB1CAA}|ex3.2.vcxproj|D:\\vsstudio\\work\\ex3.2\\ex3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A53BEEDE-7A56-44CC-9903-AF9C2DDB1CAA}|ex3.2.vcxproj|solutionrelative:ex3.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex3.2.cpp",
+              "DocumentMoniker": "D:\\vsstudio\\work\\ex3.2\\ex3.2.cpp",
+              "RelativeDocumentMoniker": "ex3.2.cpp",
+              "ToolTip": "D:\\vsstudio\\work\\ex3.2\\ex3.2.cpp",
+              "RelativeToolTip": "ex3.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T03:02:31.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
