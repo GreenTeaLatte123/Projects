@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476041969372",
+    "project_id": "logintest-62bdd",
+    "storage_bucket": "logintest-62bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476041969372:android:562777919f0b20ba64be19",
+        "android_client_info": {
+          "package_name": "com.example.logintest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCSxL-XhOdIsZ00RyVjrszaM8TpIvosU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
